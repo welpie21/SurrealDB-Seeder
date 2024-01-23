@@ -1,0 +1,8 @@
+[package]
+name = "SurreaDB-Seeder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fake = "2.9.2"
+surrealdb = "1.1.1"
